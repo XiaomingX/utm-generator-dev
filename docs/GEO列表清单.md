@@ -7,3 +7,6 @@
 6. 腾讯（Ima）【App】
 7. 豆包【App】
 8. 千问【App】
+9. Google Gemini
+10. 微软 Bing Chat
+11. Consensus

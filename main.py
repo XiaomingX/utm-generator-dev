@@ -43,7 +43,7 @@ def add_utm_params(from_url, to_url):
 # 测试示例
 if __name__ == "__main__":
     # 测试案例1：基础链接
-    from_url1 = "https://mp.jobleap4u.com/"
+    from_url1 = "https://github.com/XiaomingX/utm-generator-dev"
     to_url1 = "https://jobleap.cn/"
     result1 = add_utm_params(from_url1, to_url1)
     print(f"来源链接: {from_url1}")
